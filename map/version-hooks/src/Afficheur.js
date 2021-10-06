@@ -1,7 +1,9 @@
 import React from "react";
 
 /*
-  Vous devez boucler au travers de la liste de chiens dans le but d'afficher uniquement leur nom à l'écran.
+  Vous devez boucler au travers de la liste de chiens dans le but d'afficher leur nom et leur race à l'écran.
+  Par exemple, le premier élément affiché serait 'Bobby Chihuahua'.
+
   La liste se nomme LISTE_DE_CHIENS et est située dans le composant Afficheur.
 */
 
@@ -18,7 +20,7 @@ const Afficheur = () => {
 
   return (
     <>
-      <h1>Noms de chiens</h1>
+      <h1>Noms et race de chiens</h1>
 
       {/* La liste de noms devra être affichée ici. */}
     </>

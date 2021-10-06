@@ -1,4 +1,4 @@
-# QUESTION 3 - Map
+# QUESTION 3 - Map (10 points)
 
 L'objectif de cette question est de m'assurer que vous ayez bien compris comment fonctionne la méthode map() en JavaScript pour gérer des listes.
 Vous aurez à boucler au travers une liste d'éléments et d'afficher seulement un de ses attributs. L'utilisation de la méthode map sera donc requise.

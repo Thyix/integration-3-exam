@@ -1,4 +1,4 @@
-# QUESTION 2 - Props
+# QUESTION 2 - Props (12 points)
 
 L'objectif de cet exercise est de m'assurer que vous ayez bien compris comment passer des informations entre différents composants à l'aide de Props.
 

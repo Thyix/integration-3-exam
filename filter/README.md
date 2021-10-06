@@ -1,4 +1,4 @@
-# QUESTION 4 - Filter
+# QUESTION 4 - Filter (10 points)
 
 L'objectif de cette question est de m'assurer que vous ayez bien compris comment fonctionne la méthode filter() en JavaScript pour gérer des listes et filtrer des éléments.
 Vous aurez à faire un filtre sur une liste dans le but d'enlever les bons éléments.
